@@ -2,8 +2,8 @@
 
 ### Coding activity over all time this profile
 <img src="https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3.svg"/>
+
 [![wakatime](https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3.svg)](https://wakatime.com/@018b99e7-badf-4458-948d-a748c7d84af3)
-##
 
 <!--
 **maksyk/maksyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
