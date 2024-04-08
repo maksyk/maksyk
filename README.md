@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Max! 👋
 
 ### Coding activity over all time this profile
 <img src="https://wakatime.com/share/@maksyk/ea4520c6-6226-474a-8351-59d2c7a3c589.svg"/>
