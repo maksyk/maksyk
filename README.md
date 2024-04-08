@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![wakatime](https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3/project/018c2578-7b71-479b-95cb-2a82ca27baf6.svg)](https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3/project/018c2578-7b71-479b-95cb-2a82ca27baf6)
+
 
 <!--
 **maksyk/maksyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
