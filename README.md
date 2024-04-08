@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Coding activity over all time this profile
-<img src="https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3.svg"/>
+<img src="https://wakatime.com/share/maksyk/018b99e7-badf-4458-948d-a748c7d84af3.svg"/>
 
 [![wakatime](https://wakatime.com/badge/user/018b99e7-badf-4458-948d-a748c7d84af3.svg)](https://wakatime.com/@018b99e7-badf-4458-948d-a748c7d84af3)
 
